@@ -12,7 +12,7 @@ class User {
             this.year = year;
             this.semester = semester;
             this.status = status;
-    }\
+    }
 }
 
 module.exports = User;
